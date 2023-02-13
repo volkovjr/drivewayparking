@@ -1,1 +1,1 @@
-# drivewayparking
+Driveway Parking app is a platform that will allow users to host and rent private residence parking areas for short-term and long-term use at a competitive price. The demand for convenient, safe, and affordable parking in highly-populated areas becomes even more pronounced during large social events, such as games, concerts, etc. The app can be also used as a more attractive alternative to a higher-priced long-term airport parking.
